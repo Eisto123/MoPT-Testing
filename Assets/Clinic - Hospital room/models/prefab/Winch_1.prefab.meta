@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a9ed5deaa34ed8643ad7198d74c2ba0f
+timeCreated: 1569569368
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/prefab/Winch_1.prefab
+  uploadId: 393375

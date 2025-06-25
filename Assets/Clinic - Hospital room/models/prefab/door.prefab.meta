@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 855c858595224614da3f6577320219ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/prefab/door.prefab
+  uploadId: 393375

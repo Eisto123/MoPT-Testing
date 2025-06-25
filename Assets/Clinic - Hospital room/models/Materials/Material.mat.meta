@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 304e6ff7905124043baae616c828490c
+timeCreated: 1570542294
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/Materials/Material.mat
+  uploadId: 393375

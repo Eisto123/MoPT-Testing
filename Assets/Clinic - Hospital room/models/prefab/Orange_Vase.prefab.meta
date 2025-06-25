@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0821dfed51ff2147aefc712de7b29de
+timeCreated: 1569569043
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/prefab/Orange_Vase.prefab
+  uploadId: 393375

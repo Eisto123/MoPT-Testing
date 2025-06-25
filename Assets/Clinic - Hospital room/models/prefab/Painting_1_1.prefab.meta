@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 641260365ffcd0845ad0405fe411b43a
+timeCreated: 1569569207
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/prefab/Painting_1_1.prefab
+  uploadId: 393375

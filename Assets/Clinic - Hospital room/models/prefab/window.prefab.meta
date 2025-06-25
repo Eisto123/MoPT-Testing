@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97229912a1d8dd044ac46a2487352ff6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/prefab/window.prefab
+  uploadId: 393375

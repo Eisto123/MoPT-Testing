@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cd572272075a1104e8dd49d405f01ecf
+timeCreated: 1569568594
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/Materials/Painting_1_4.mat
+  uploadId: 393375

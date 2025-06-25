@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9e97153ed32648479f71a6870b73701
+timeCreated: 1568983019
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/prefab/Lamp_2.prefab
+  uploadId: 393375

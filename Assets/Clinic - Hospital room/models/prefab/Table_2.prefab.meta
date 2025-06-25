@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6525fba7d883d446aff5eb5db58b700
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70488
+  packageName: Clinic - Hospital room
+  packageVersion: 1.0
+  assetPath: Assets/Clinic - Hospital room/models/prefab/Table_2.prefab
+  uploadId: 393375
